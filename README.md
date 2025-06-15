@@ -189,7 +189,7 @@ Be sure to replace `*YOUR POSTGRES DATABASE URL*` with your actual postgress dat
 to your local machine:
 
 ```bash
-git clone https://github.com/Shivam-Sharma-1/Facility-Management-System.git
+git clone https://github.com/brunoDev100/system.git
 ```
 
 2. Change to the project directory:
